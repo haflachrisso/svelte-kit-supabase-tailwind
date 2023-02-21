@@ -35,4 +35,10 @@ npm run build
 
 You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## Tailwind
+Installed using [this](https://tailwindcss.com/docs/guides/sveltekit) guide.
+
+## Supabase with SSR
+Installed useing [this]("https://supabase.com/docs/guides/getting-started/tutorials/with-sveltekit") guide.
+
+
