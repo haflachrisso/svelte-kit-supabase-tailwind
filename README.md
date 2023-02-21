@@ -39,6 +39,6 @@ You can preview the production build with `npm run preview`.
 Installed using [this](https://tailwindcss.com/docs/guides/sveltekit) guide.
 
 ## Supabase with SSR
-Installed useing [this]("https://supabase.com/docs/guides/getting-started/tutorials/with-sveltekit") guide.
+Installed useing [this](https://supabase.com/docs/guides/getting-started/tutorials/with-sveltekit) guide.
 
 
