@@ -1,4 +1,25 @@
-# create-svelte
+# SvelteKit skeleton project with Supabase SSR and Tailwind CSS
+
+## How to copy this repo
+
+**1** - Create a new repository on GitHub.com eg. {YOUR-USERNAME}/new-repository  
+**2** - Open terminal  
+**3** - Create a bare clone of this repository
+```bash
+$ git clone --bare https://github.com/haflachrisso/svelte-kit-supabase-tailwind.git
+```
+**4** - Mirror-push to the new repository
+```bash
+$ cd svelte-kit-supabase-tailwind.git
+$ git push --mirror https://github.com/{YOUR-USERNAME}/new-repository.git
+```
+**5** - Remove the temporary local repository you created earlier.
+```bash
+$ cd ..
+$ rm -rf svelte-kit-supabase-tailwind.git
+```
+**6** - The repository is now copied and you are ready to start coding!
+## create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
